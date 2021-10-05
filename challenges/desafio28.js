@@ -11,4 +11,4 @@ db.resumoVoos.insertOne(
     },
 );
 
-db.resumoVoos.findOne({ empresa: NAME }, { id: 0 });
+db.resumoVoos.findOne({ empresa: NAME }, { _id: 0 });
