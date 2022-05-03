@@ -9,7 +9,7 @@ Data de entrega: 06/10/2021
 - Contar documentos compreendidos nos filtros pedidos
 - Inserir documentos no banco
 
-# Requisitos do projeto
+# Lista de requisitos
 
 #### 1 - Retorne a quantidade de documentos inseridos na coleção `voos`.
 
