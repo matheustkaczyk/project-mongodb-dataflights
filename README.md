@@ -1,4 +1,4 @@
-Projeto desenvolvido durante o curso de desenvolvimento de software na Trybe. O objetivo foi práticar a construção de queries SQL.
+Projeto desenvolvido durante o curso de desenvolvimento de software na Trybe. O objetivo foi práticar a construção de queries no mongoDB.
 
 Data de entrega: 06/10/2021
 
