@@ -1,5 +1,7 @@
 Projeto desenvolvido durante o curso de desenvolvimento de software na Trybe. O objetivo foi práticar a construção de queries SQL.
 
+Data de entrega: 06/10/2021
+
 # Habilidades
 - Buscar documentos no banco
 - Usar filtros na busca
